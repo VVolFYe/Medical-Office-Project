@@ -1,0 +1,1 @@
+This page displays all the doctors by using the script in this folder
